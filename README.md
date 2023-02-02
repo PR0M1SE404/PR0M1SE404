@@ -2,7 +2,7 @@
 - 🤔 I'm figuring out what I want to do (probably not CS-related, sorry).
 - 👀 I'm interested in building a website at https://onceady.github.io (not yet live).
 - 🌱 I'm currently learning Python. Next up, Java and C++.
-- 💞️ I'm looking to collaborate on my homework. Got any ~~answers~~ time management strategies for me?
+- 💞️ I'm looking to collaborate on ... my homework. Got any ~~answers~~ time management strategies for me?
 - 📫 How to reach me (most to least often checked):
   - Email: onceady4@gmail.com
   - Discord: smrp#9110
