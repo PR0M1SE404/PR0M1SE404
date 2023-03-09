@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Elizabeth, a junior in HS.
 - 🤔 I'm figuring out what I want to do (probably not CS-related, sorry).
-- 👀 I'm interested in building a website at https://onceady.github.io (not yet live).
+- 👀 I'm interested in building a website at [username].github.io.
 - 🌱 I'm currently learning Python. Next up, Java and C++.
 - 💞️ I'm looking to collaborate on ... my homework. Got any ~~answers~~ time management help for me? (please i'm desperate)
 - 📫 How to reach me (most to least often checked):
