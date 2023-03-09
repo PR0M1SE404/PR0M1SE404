@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @PR0M1SE4, a junior in HS.
+- 👋 Hi, I'm Elizabeth, a junior in HS.
 - 🤔 I'm figuring out what I want to do (probably not CS-related, sorry).
 - 👀 I'm interested in building a website at https://onceady.github.io (not yet live).
 - 🌱 I'm currently learning Python. Next up, Java and C++.
