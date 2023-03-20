@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Elizabeth, a kid in HS.
+- 👋 Hi, I'm Elizabeth, another kid in HS.
 - 🤔 I'm figuring out what I want to do.
 - 👀 I'm interested in building a website (and maybe a few games) at [username].github.io.
 - 🌱 I'm currently learning Python. Next up, Java and C++.
