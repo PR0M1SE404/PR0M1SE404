@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Elizabeth, a student interested in coding.
+- 👋 Hi, I'm Elizabeth L., a student interested in coding.
 - 👀 I'm interested in building a website (and maybe a few games) at https://promisecoder.github.io (currently boring).
 - 🌱 I'm currently learning Python. Next up, Java and C++.
 - 📫 How to reach me (most to least checked):
