@@ -1,4 +1,4 @@
-- 👋 Hi, I'm PromiseCoder. I'm a student.
+- 👋 Hi, I'm PromiseCoder, a coder and a student.
 - 👀 I'm interested in building a website (and maybe a few games) at https://promisecoder.github.io (currently boring).
 - 🌱 I'm currently learning Python. Next up, Java and C++.
 - 📫 How to reach me (most to least checked):
