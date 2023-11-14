@@ -5,7 +5,7 @@
   - Email: onceady4@gmail.com
   - Discord: @smrple
   - Replit: [@PromiseCoder](https://replit.com/@PromiseCoder)
-- ✔ You may know me as [@PR0M1SE](https://khanacademy.org/profile/PR0M1SE/projects) from KACP. Yay!
+- ✔ You may know me as [@PromiseCoder](https://khanacademy.org/profile/PromiseCoder/projects) from KACP. Yay!
 
 <!--
 👋 Hi, I’m  ...
