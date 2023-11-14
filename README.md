@@ -4,7 +4,7 @@
 - 📫 How to reach me (most to least checked):
   - Email: onceady4@gmail.com
   - Discord: @smrple
-  - Replit: [@onceady](https://replit.com/@onceady)
+  - Replit: [@PromiseCoder](https://replit.com/@PromiseCoder)
 - ✔ You may know me as [@PR0M1SE](https://khanacademy.org/profile/PR0M1SE/projects) from KACP. Yay!
 
 <!--
