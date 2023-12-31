@@ -1,11 +1,11 @@
 - 👋 Hi, I'm Elizabeth L., a student interested in coding.
-- 👀 I'm interested in building a website (and maybe a few games) at https://promisecoder.github.io (currently boring).
+- 👀 I'm in the process of building a website (and maybe a few games) at https://promisecoder.github.io.
 - 🌱 I'm currently learning Python. Next up, Java and C++.
 - 📫 How to reach me (most to least checked):
   - Email: onceady4@gmail.com
   - Discord: @smrple
   - Replit: [@PromiseCoder](https://replit.com/@PromiseCoder)
-- ✔ You may know me as [@PromiseCoder](https://khanacademy.org/profile/PromiseCoder/projects) from KACP. Yay!
+- ✅ You may know me as Promise [@PromiseCoder](https://khanacademy.org/profile/PromiseCoder/projects) from KACP. Yay!
 
 <!--
 👋 Hi, I’m  ...
