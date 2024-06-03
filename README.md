@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Elizabeth L., a student interested in coding.
 - 👀 I'm in the process of building a website (and maybe a few games) at https://promisecoder.github.io.
 - 🌱 I'm currently learning Python. Next up, Java and C++.
-- 📫 How to reach me (most to least checked):
+- 📫 Find me here (most to least checked):
   - Email: onceady4@gmail.com
   - Discord: @smrple
   - Replit: [@PromiseCoder](https://replit.com/@PromiseCoder)
