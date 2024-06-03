@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Java. Next up, C++.
 - 📫 Find me here (most to least checked):
   - Email: onceady4@gmail.com
-  - Discord: @smrple
+  - Discord: @.smrp.
   - Replit: [@PromiseCoder](https://replit.com/@PromiseCoder)
 - ✅ You may know me as Promise [@PromiseCoder](https://khanacademy.org/profile/PromiseCoder/projects) from KACP. Yay!
 
